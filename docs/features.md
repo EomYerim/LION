@@ -4,15 +4,11 @@ title: Features
 permalink: /features/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- <b>LION</b> is a lightweight IoT platform developed to facilitate device management based on Edge Computing technology.
+- By registering/modifying/deleting IoT devices in the LION server, you can expect a lighter and faster response than existing developed products.
+- By supporting the resource browser, it is possible to quickly respond to the status of the edge IoT device.
+- Provides user convenience in device management by providing resource creation and deletion in the Resource Browser.
+- These programs can be used to effectively manage IoT devices.
+- We developed it on the premise that the device can be registered on the LION server, and the device registration function will be additionally implemented in the future.
 
 
-[jekyll-organization]: https://github.com/jekyll
